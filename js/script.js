@@ -13,3 +13,5 @@ function palindroma(string) {
         console.log('Non è palindroma')
     }
 }
+
+palindroma(word);
